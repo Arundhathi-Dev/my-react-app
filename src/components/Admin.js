@@ -1,7 +1,7 @@
 import React , {Component} from 'react';
 import {NavLink} from "react-router-dom";
-import REACTLOGO from "/Users/arundhathi/Desktop/my-app/src/components/Navbar/images.png";
-import Card from "/Users/arundhathi/Desktop/my-app/src/components/Card/Card.js";
+import REACTLOGO from "/Users/arundhathi/Desktop/my-app/src/components/images.png";
+import Card from "/Users/arundhathi/Desktop/my-app/src/components/Card.js";
 import { makeStyles } from '@material-ui/styles';
 
 const useStyles = makeStyles({

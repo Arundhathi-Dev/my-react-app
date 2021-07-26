@@ -1,6 +1,6 @@
 import React from 'react';
 import ReactRoundedImage from "react-rounded-image";
-import REACTIMAGE from "/Users/arundhathi/Desktop/my-app/src/components/Card/download.png";
+import REACTIMAGE from "/Users/arundhathi/Desktop/my-app/src/components/download.png";
 import { makeStyles } from '@material-ui/styles';
 
 const useStyles = makeStyles({
